@@ -1,0 +1,39 @@
+╔═══════════════════════════════════════════════════╗
+║        SMART ANNOTATOR - QUICK START             ║
+╚═══════════════════════════════════════════════════╝
+
+WINDOWS
+────────
+  Double-click:  run_windows.bat
+
+LINUX / MAC
+────────────
+  Run:  ./run.sh
+  Or:   python3 run.py
+
+WHAT IT DOES
+─────────────
+  ✓ Checks Python version
+  ✓ Sets up paths
+  ✓ Creates folders
+  ✓ Checks dependencies
+  ✓ Installs missing packages
+  ✓ Launches GUI
+
+REQUIREMENTS
+─────────────
+  • Python 3.8+
+  • 8GB RAM
+  • 2GB disk space
+
+FIRST RUN
+──────────
+  1. Run script
+  2. Wait for checks
+  3. Type 'y' to install (if asked)
+  4. Models download (one-time, 2-3 min)
+  5. GUI opens
+
+═══════════════════════════════════════════════════
+Works on Windows, Linux, and macOS automatically!
+═══════════════════════════════════════════════════

@@ -1,0 +1,1 @@
+maintain the clean folder structure with only "data, models, src, ui, weight" folders and make all changes within them.

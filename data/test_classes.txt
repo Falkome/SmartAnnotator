@@ -1,0 +1,5 @@
+object
+person
+vehicle
+animal
+building

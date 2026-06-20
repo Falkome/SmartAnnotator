@@ -1,0 +1,45 @@
+{
+  "image_path": "/home/ggoswami/Project/smart-annotator/data/test.jpg",
+  "image_shape": [
+    640,
+    960,
+    3
+  ],
+  "annotations": [
+    {
+      "type": "manual_rectangle",
+      "rectangle": [
+        63,
+        222,
+        261,
+        439
+      ],
+      "width": 198,
+      "height": 217,
+      "timestamp": 1765195662.6011744,
+      "class_id": 0,
+      "class_name": "object",
+      "class_color": "#FF0000",
+      "annotation_id": 1
+    },
+    {
+      "type": "manual_rectangle",
+      "rectangle": [
+        315,
+        93,
+        373,
+        154
+      ],
+      "width": 58,
+      "height": 61,
+      "timestamp": 1765195668.5970898,
+      "class_id": 0,
+      "class_name": "object",
+      "class_color": "#FF0000",
+      "annotation_id": 2
+    }
+  ],
+  "annotation_count": 2,
+  "saved_at": 1765195685.381624,
+  "auto_save_version": "2.0"
+}

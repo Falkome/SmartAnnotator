@@ -1,0 +1,48 @@
+{
+  "classes": {
+    "0": {
+      "id": 0,
+      "name": "Ob",
+      "color": "#55aaff",
+      "description": "General object",
+      "created_at": 1765195927.6709578,
+      "annotation_count": 0
+    },
+    "1": {
+      "id": 1,
+      "name": "person",
+      "color": "#00FF00",
+      "description": "Person/human",
+      "created_at": 1765195927.6711679,
+      "annotation_count": 0
+    },
+    "2": {
+      "id": 2,
+      "name": "vehicle",
+      "color": "#0000FF",
+      "description": "Vehicle/transport",
+      "created_at": 1765195927.6712875,
+      "annotation_count": 0
+    },
+    "3": {
+      "id": 3,
+      "name": "animal",
+      "color": "#FFFF00",
+      "description": "Animal/pet",
+      "created_at": 1765195927.6714134,
+      "annotation_count": 0
+    },
+    "4": {
+      "id": 4,
+      "name": "building",
+      "color": "#FF00FF",
+      "description": "Building/structure",
+      "created_at": 1765195927.6715622,
+      "annotation_count": 0
+    }
+  },
+  "current_class_id": 0,
+  "next_id": 7,
+  "saved_at": 1765197540.5687644,
+  "version": "2.0"
+}
